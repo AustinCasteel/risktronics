@@ -1,9 +1,11 @@
-baseURL = "/"
+baseURL = "https://risktronics.io"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Risktronics "
 theme = "meghna-hugo"
 summaryLength = 10
+
+publishDir = "docs"
 
 [taxonomies]
   author = "author"
