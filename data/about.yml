@@ -1,14 +1,14 @@
 enable : true
 heading : About
 headingSpan : Us
-aboutItem : 
+aboutItem :
 - icon : tf-tools
   title : We're Creative
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
 - icon : tf-strategy
   title : We're Professional
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  content : Our cybersecurity experts are ready to provide an in-depth audit of your critical infostructure security, assuring real time response to the whole range of threats you're facing while also recovering detailed cybercrime data for further digital forensics analyses.
 
 - icon : tf-anchor2
   title : We're Genius
