@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Risktronics </title>
-    <link>https://redragonx.github.io/risktronics/tags/</link>
+    <link>/risktronics/tags/</link>
     <description>Recent content in Tags on Risktronics </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://redragonx.github.io/risktronics/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/risktronics/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>golang</title>
-      <link>https://redragonx.github.io/risktronics/tags/golang/</link>
+      <link>/risktronics/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://redragonx.github.io/risktronics/tags/golang/</guid>
+      <guid>/risktronics/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://redragonx.github.io/risktronics/tags/hugo/</link>
+      <link>/risktronics/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://redragonx.github.io/risktronics/tags/hugo/</guid>
+      <guid>/risktronics/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://redragonx.github.io/risktronics/tags/programming/</link>
+      <link>/risktronics/tags/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://redragonx.github.io/risktronics/tags/programming/</guid>
+      <guid>/risktronics/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://redragonx.github.io/risktronics/tags/theme/</link>
+      <link>/risktronics/tags/theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://redragonx.github.io/risktronics/tags/theme/</guid>
+      <guid>/risktronics/tags/theme/</guid>
       <description></description>
     </item>
     
