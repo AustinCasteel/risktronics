@@ -3,94 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>docs/author/john-doe/</loc>
+    <loc>risktronics/author/john-doe/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>docs/blog/are-you-doing-the-right-way/</loc>
+    <loc>risktronics/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>docs/author/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>docs/blog/</loc>
+    <loc>risktronics/author/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/</loc>
+    <loc>risktronics/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/author/somrat/</loc>
+    <loc>risktronics/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>risktronics/author/somrat/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>docs/blog/simple-post-title/</loc>
+    <loc>risktronics/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>docs/author/jamica-jock/</loc>
+    <loc>risktronics/author/jamica-jock/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>docs/blog/simple-image-post/</loc>
+    <loc>risktronics/blog/simple-image-post/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>docs/categories/</loc>
+    <loc>risktronics/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/blog/installation/</loc>
+    <loc>risktronics/blog/installation/</loc>
   </url>
   
   <url>
-    <loc>docs/tags/</loc>
+    <loc>risktronics/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/author/themefisher/</loc>
+    <loc>risktronics/author/themefisher/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/tags/golang/</loc>
+    <loc>risktronics/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/tags/hugo/</loc>
+    <loc>risktronics/tags/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/tags/programming/</loc>
+    <loc>risktronics/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/categories/starting/</loc>
+    <loc>risktronics/categories/starting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>docs/tags/theme/</loc>
+    <loc>risktronics/tags/theme/</loc>
     <priority>0</priority>
   </url>
   
