@@ -3,94 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://risktronics.io/author/john-doe/</loc>
+    <loc>/author/john-doe/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://risktronics.io/blog/are-you-doing-the-right-way/</loc>
+    <loc>/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://risktronics.io/author/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://risktronics.io/blog/</loc>
+    <loc>/author/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/author/somrat/</loc>
+    <loc>/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/author/somrat/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://risktronics.io/blog/simple-post-title/</loc>
+    <loc>/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://risktronics.io/author/jamica-jock/</loc>
+    <loc>/author/jamica-jock/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://risktronics.io/blog/simple-image-post/</loc>
+    <loc>/blog/simple-image-post/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://risktronics.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/blog/installation/</loc>
+    <loc>/blog/installation/</loc>
   </url>
   
   <url>
-    <loc>https://risktronics.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/author/themefisher/</loc>
+    <loc>/author/themefisher/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/tags/programming/</loc>
+    <loc>/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/categories/starting/</loc>
+    <loc>/categories/starting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://risktronics.io/tags/theme/</loc>
+    <loc>/tags/theme/</loc>
     <priority>0</priority>
   </url>
   
