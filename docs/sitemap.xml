@@ -3,94 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/author/john-doe/</loc>
+    <loc>docs/author/john-doe/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/blog/are-you-doing-the-right-way/</loc>
+    <loc>docs/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/author/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redragonx.github.io/risktronics/blog/</loc>
+    <loc>docs/author/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/</loc>
+    <loc>docs/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/author/somrat/</loc>
+    <loc>docs/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>docs/author/somrat/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/blog/simple-post-title/</loc>
+    <loc>docs/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/author/jamica-jock/</loc>
+    <loc>docs/author/jamica-jock/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/blog/simple-image-post/</loc>
+    <loc>docs/blog/simple-image-post/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/categories/</loc>
+    <loc>docs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/blog/installation/</loc>
+    <loc>docs/blog/installation/</loc>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/tags/</loc>
+    <loc>docs/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/author/themefisher/</loc>
+    <loc>docs/author/themefisher/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/tags/golang/</loc>
+    <loc>docs/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/tags/hugo/</loc>
+    <loc>docs/tags/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/tags/programming/</loc>
+    <loc>docs/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/categories/starting/</loc>
+    <loc>docs/categories/starting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://redragonx.github.io/risktronics/tags/theme/</loc>
+    <loc>docs/tags/theme/</loc>
     <priority>0</priority>
   </url>
   
