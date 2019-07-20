@@ -1,4 +1,4 @@
-baseURL = "https://redragonx.github.io/risktronics/"
+baseURL = "docs/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Risktronics "
