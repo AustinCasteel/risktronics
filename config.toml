@@ -55,7 +55,7 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/rsk_logo2.jpg"
-    heading = "Achieve real cybersecurity not just only compliance!"
+    heading = "Achieve real cybersecurity, not just compliance!"
     content= "Our cybersecurity experts are ready to provide an in-depth audit of your critical infostructure security, assuring real time response to the whole range of threats you're facing while also recovering detailed cybercrime data for further digital forensics analyses."
     btn = true
     btnText="Talk With Us"
