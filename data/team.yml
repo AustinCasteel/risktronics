@@ -21,7 +21,7 @@ teamMember :
   - image : images/team/Stephen.jpg
     name : Stephen Chavez
     designation : CISO
-    description : Denver, Colorado
+    description : Colorado, U.S.A.
     socialIcon :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/hacker-stephen/"
