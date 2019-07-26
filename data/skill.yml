@@ -1,9 +1,9 @@
 enable : true
 heading : Our
 headingSpan : certifications and Skills
-title : We're skilled in a wide range of infosec tools & digital forensics tools & procedures
-content : We can protect you from a wide range of known attacks by patching your attack vectors. Vectors like hardware exploits like Spectre, Meltdown or advanced malware like Wannacry and Notpetya.
-
+title :
+content :
+    
 skillItem :
   - itemNumber : 01-
     itemName :  Certified Information Systems Auditor - CISA
