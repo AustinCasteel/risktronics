@@ -1,26 +1,34 @@
 enable : true
 heading : Our
-headingSpan : Skills
-title : We’ve skilled in wide range of web and Other digital market tools.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-image : images/about/company-growth.png
+headingSpan : certifications and Skills
+title : We're skilled in a wide range of infosec tools & digital forensics tools & procedures
+content : We can protect you from a wide range of known attacks by patching your attack vectors. Vectors like hardware exploits like Spectre, Meltdown or advanced malware like Wannacry and Notpetya.
+
 skillItem :
   - itemNumber : 01-
-    itemName :  Business Development
-    itemPercent : 90%
-    
+    itemName :  Certified Information Systems Auditor - CISA
+    itemPercent : 100%
+
   - itemNumber : 02-
-    itemName :  Analysis
-    itemPercent : 70%
-    
+    itemName :  Offensive Security Certified Professional - OSCP
+    itemPercent : 100%
+
   - itemNumber : 03-
-    itemName :  Design
-    itemPercent : 80%
-    
+    itemName :  GIAC Cyber Threat Intelligence - GCTI
+    itemPercent : 100%
+
   - itemNumber : 04-
-    itemName :  IOS Development
-    itemPercent : 95%
-    
+    itemName :  GIAC Certified Incident Handler - GCIH
+    itemPercent : 100%
+
   - itemNumber : 05-
-    itemName :  Andriod Development
-    itemPercent : 75%
+    itemName :  CompTIA Security+
+    itemPercent : 100%
+
+  - itemNumber : 06-
+    itemName :  Qualys - Vulnerability Management & Policy Compliance
+    itemPercent : 100%
+
+  - itemNumber : 07-
+    itemName :  Carbon Black - Endpoint detection and response
+    itemPercent : 100%

@@ -1,59 +1,34 @@
 enable : true
 heading : Our
-headingSpan : Team
+headingSpan : Leadership Team
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
-    designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  - image : images/team/Remus.jpg
+    name :  Remus Munteanu
+    designation : CEO
+    description : Cluj, Romania
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-      
-  - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+        url : "https://www.linkedin.com/in/remusmunteanu/"
+
+  - image : images/team/Iliya.jpg
+    name : Iliya Moshik
+    designation : CTO
+    description : Tel-Aviv, Israel
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-      
-  - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+        url : "https://www.linkedin.com/in/imoshik/"
+
+  - image : images/team/Stephen.jpg
+    name : Stephen Chavez
+    designation : CISO
+    description : Denver, Colorado
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-      
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+        url : "https://www.linkedin.com/in/hacker-stephen/"
+  - image : images/team/Stas.jpg
+    name : Stas Sushkov
+    designation : CSSE - Chief Software Security Engineer
+    description : Lisbon, Portugal
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+      - icon : tf-ion-social-github
+        url : "https://github.com/stas"

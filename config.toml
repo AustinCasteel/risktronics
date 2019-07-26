@@ -35,19 +35,9 @@ publishDir = "docs"
     weight = 5
 
     [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
-
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
-
-    [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
-    weight = 8
+    weight = 6
 
 # Site params
 [params]
@@ -64,8 +54,7 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
+    bgImage = "images/rsk_logo2.jpg"
     heading = "Experience security in a new way"
     content= "Ready to talk about how we can help secure your IoT devices or network?"
     btn = true
@@ -74,7 +63,7 @@ custom_css = ["css/custom.css"]
 
     # call to action
     [params.cta]
-    enable = true
+    enable = false
     title = "Great Design & Incredible Features"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
@@ -82,7 +71,7 @@ custom_css = ["css/custom.css"]
 
     # counter
     [params.counter]
-    enable = true
+    enable = false
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Happy Clients"
@@ -111,29 +100,13 @@ custom_css = ["css/custom.css"]
 
         # social Icons
         [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "https://www.linkedin.com/company/risktronics/"
+
+        [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://www.facebook.com/risktronics/"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        url = "https://twitter.com/risktronics"
