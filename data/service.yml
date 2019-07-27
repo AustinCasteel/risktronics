@@ -5,7 +5,7 @@ serviceItem :
 
   - icon : tf-globe
     title : Penetration Testing
-    content : Deep automatic and manual penetration testing of your network, We can do testing on webapps. We also provide Physical Penetration Testing, Social Engineering, Stress Testing (DDoS) & Red Team attack simulations (real attackers TTP -Tactics, Techniques & Procedures).
+    content: Red Team attack simulations - Real attacker's TTP (Tactics, Techniques & Procedures).  Network Penetration Testing (external/internal/hybrid). Web Application Penetration Testing & Architecture Auditing. Wireless Network Penetration Testing. Mobile Penetration Testing. Physical Penetration Testing. Stress Testing (DDoS). Social Engineering
 
   - icon : tf-ion-laptop
     title : Vulnerability Assessment
@@ -20,7 +20,5 @@ serviceItem :
     content : When it comes to ensuring top-notch cyber security for your organization, we assure the delivery of the high-end digital forensics services under the CSIRT domain. We have a special team of experts which specializes in the extraction, analysis, and presentation of the data across all computer systems and networks. Our team of digital forensic experts has extensive experience across a wide range of civil disputes and criminal cases with respect to the cyber security of different organizations. Risktronics makes use of legally approved and tested methods for collecting, preserving, assessing, analyzing, and presenting information that is found across all computer systems and interconnected networks.
 
   - icon : tf-globe
-    title : Incidunt Response
-    content : Our high-end incident response services aid you in managing, preparing, and recovering from potential network attacks or data infringement cases. Our highly qualified and experienced team of Incident Response experts makes use of the latest threat intelligence concepts along with the trending security technology for responding to attacks in your organization. Our team of experts is also aimed at reducing the overall exposure to threat and damages caused by the same. Through our professional incident response security services, you can achieve high-level threat intelligence to detect even the strongest threat. Our senior-level experts have an expertise in offering interactive responses to incidents across a wide range of industries.
-
-     We help you recover your systems or to investigate crimes like host compromised, BEC and CEO scams, phishing attacks, etc. With our expert emergency services, our cyber security incident responders can serve you as you need them.
+    title : Incident Response
+    content : Our high-end incident response services aid you in managing, preparing, and recovering from potential network attacks or data infringement cases. Our highly qualified and experienced team of Incident Response experts makes use of the latest threat intelligence concepts along with the trending security technology for responding to attacks in your organization. Our team of experts is also aimed at reducing the overall exposure to threat and damages caused by the same. Through our professional incident response security services, you can achieve high-level threat intelligence to detect even the strongest threat. Our senior-level experts have an expertise in offering interactive responses to incidents across a wide range of industries. We help you recover your systems or to investigate crimes like host compromised, BEC and CEO scams, phishing attacks, etc. With our expert emergency services, our cyber security incident responders can serve you as you need them.
