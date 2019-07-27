@@ -1,9 +1,6 @@
 enable : true
 heading : Our
 headingSpan : Clients
-filterList :
-  - filterType : pentest
-    filterTitle : Pentest
 
 portfolioItem :
   - types : pentest

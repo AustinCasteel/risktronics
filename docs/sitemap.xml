@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/risktronics/author/</loc>
+    <loc>/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/risktronics/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/risktronics/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/risktronics/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
