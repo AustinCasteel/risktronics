@@ -1,4 +1,4 @@
-baseURL = "/risktronics/"
+baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Risktronics "
