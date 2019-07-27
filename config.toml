@@ -43,7 +43,7 @@ publishDir = "docs"
 [params]
 home= "Home"
 logo = "images/logo.jpg"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Cybersecurity for modern times"
 author = ""

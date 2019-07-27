@@ -2,14 +2,15 @@ enable : true
 heading : Our
 headingSpan : Services
 serviceItem :
+
   - icon : tf-globe
-    title : Vulnerability Research
-    content : Vulnerability Research is best defined as the systematic investigation into and study of materials and sources in order to establish facts about how susceptible something is to attack or harm. In IT Security, Vulnerability Research often involves but is not limited to advanced source code reviews, reverse engineering, exploit development, etc. As vulnerabilities are identified methods for remediation can be created and implemented thus eliminating the vulnerabilities.
+    title : Penetration Testing
+    content : Deep automatic and manual penetration testing of your network, We can do testing on webapps. We also provide Physical Penetration Testing, Social Engineering, Stress Testing (DDoS) & Red Team attack simulations (real attackers TTP -Tactics, Techniques & Procedures).
 
   - icon : tf-ion-laptop
     title : Vulnerability Assessment
     content : Our vulnerability assessment service provides a snapshot of the current status of your security and identifies any major issues. Less in depth than a manual penetration test and conducted using approved scanning software, a vulnerability assessment will test a cross section of your IT infrastructure. Vulnerability assessments can indicate whether you require a further evaluation of your security mechanisms. Alternatively, they may be implemented as part of an ongoing security contract where we will alternate vulnerability scanning and penetration testing procedures to ensure that your systems are secure against sophisticated attacks as they emerge.
 
   - icon : tf-globe
-    title : Penetration Testing
-    content : Deep automatic and manual penetration testing of your network, We can do testing on webapps. We also provide Physical Penetration Testing, Social Engineering, Stress Testing (DDoS) & Red Team attack simulations (real attackers TTP -Tactics, Techniques & Procedures).
+    title : Vulnerability Research
+    content : Vulnerability Research is best defined as the systematic investigation into and study of materials and sources in order to establish facts about how susceptible something is to attack or harm. In IT Security, Vulnerability Research often involves but is not limited to advanced source code reviews, reverse engineering, exploit development, etc. As vulnerabilities are identified methods for remediation can be created and implemented thus eliminating the vulnerabilities.

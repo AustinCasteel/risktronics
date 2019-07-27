@@ -1,9 +1,9 @@
 enable : true
 heading : Our
-headingSpan : certifications and Skills
+headingSpan : Certifications and Skills
 title :
 content :
-    
+
 skillItem :
   - itemNumber : 01-
     itemName :  Certified Information Systems Auditor - CISA
@@ -30,5 +30,5 @@ skillItem :
     itemPercent : 100%
 
   - itemNumber : 07-
-    itemName :  Carbon Black - Endpoint detection and response
+    itemName :  Carbon Black - Endpoint Detection & Response
     itemPercent : 100%
