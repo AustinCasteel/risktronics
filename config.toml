@@ -110,3 +110,7 @@ custom_css = ["css/custom.css"]
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
         url = "https://twitter.com/risktronics"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-instagram-outline"
+        url = "https://instagram.com/risktronics.io"

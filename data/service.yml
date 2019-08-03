@@ -4,12 +4,16 @@ headingSpan : Services
 serviceItem :
 
   - icon : tf-globe
-    title : Penetration Testing
-    content: Red Team attack simulations - Real attacker's TTP (Tactics, Techniques & Procedures).  Network Penetration Testing (external/internal/hybrid). Web Application Penetration Testing & Architecture Auditing. Wireless Network Penetration Testing. Mobile Penetration Testing. Physical Penetration Testing. Stress Testing (DDoS). Social Engineering
+    title : Infrastructure Penetration Testing
+    content: "Our infrastructure services include: Network Penetration Testing (external/internal/hybrid). Web Application Penetration Testing & Architecture Auditing. Wireless Network Penetration Testing. Mobile Penetration Testing. Physical Security Testing. Stress Testing (DDoS). Social Engineering."
+
+  - icon : tf-globe
+    title :  Red Team Attack Simulations
+    content : We can simulate the same tactics adversaries will hope to use on your environment. Known as TTP (Tactics, Techniques & Procedures). This is the most effective way to see flaws that might exist in your companny. Our professional team will be able to help create a suitable simulation for your company based on requirements you need to meet. We will execute this plan to see what your organization’s assumptions are and then use this information to detect faulty logic or flawed security.
 
   - icon : tf-ion-laptop
-    title : Vulnerability Assessment
-    content : Our vulnerability assessment service provides a snapshot of the current status of your security and identifies any major issues. Less in depth than a manual penetration test and conducted using approved scanning software, a vulnerability assessment will test a cross section of your IT infrastructure. Vulnerability assessments can indicate whether you require a further evaluation of your security mechanisms. Alternatively, they may be implemented as part of an ongoing security contract where we will alternate vulnerability scanning and penetration testing procedures to ensure that your systems are secure against sophisticated attacks as they emerge.
+    title : Automated Vulnerability Assessment
+    content : Our vulnerability assessment service provides a snapshot of the current status of your security and identifies any major issues. It is not a manual penetration test, but it will provide quick and easy to understand information. These automated tests are conducted using approved scanning software, a vulnerability assessment will test a cross section of your IT infrastructure. Vulnerability assessments can indicate whether you require a further evaluation of your security mechanisms. Alternatively, they may be implemented as part of an ongoing security contract where we will alternate vulnerability scanning and penetration testing procedures to ensure that your systems are secure against sophisticated attacks as they emerge.
 
   - icon : tf-globe
     title : Vulnerability Research
