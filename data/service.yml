@@ -9,7 +9,7 @@ serviceItem :
 
   - icon : tf-globe
     title :  Red Team Attack Simulations
-    content : We can simulate the same tactics adversaries will hope to use on your environment. Known as TTP (Tactics, Techniques & Procedures). This is the most effective way to see flaws that might exist in your companny. Our professional team will be able to help create a suitable simulation for your company based on requirements you need to meet. We will execute this plan to see what your organization’s assumptions are and then use this information to detect faulty logic or flawed security.
+    content : We can simulate the same tactics adversaries will hope to use on your environment. Known as TTP (Tactics, Techniques & Procedures). This is the most effective way to see flaws that might exist in your company. Our professional team will be able to help create a suitable simulation for your company based on requirements you need to meet. We will execute this plan to see what your organization’s assumptions are and then use this information to detect faulty logic or flawed security.
 
   - icon : tf-ion-laptop
     title : Automated Vulnerability Assessment
