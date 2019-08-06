@@ -10,14 +10,6 @@ teamMember :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/remusmunteanu/"
 
-  - image : images/team/Flaviu.jpg
-    name : Flaviu Cernescu
-    designation : Head, Physical Security Testing
-    description : Cluj, Romania
-    socialIcon :
-      - icon : tf-ion-social-youtube
-        url : "https://www.youtube.com/user/flaviucernescu"
-
   - image : images/team/Iliya.jpg
     name : Iliya Moshik
     designation : CTO
@@ -41,3 +33,11 @@ teamMember :
     socialIcon :
       - icon : tf-ion-social-github
         url : "https://github.com/stas"
+
+  - image : images/team/Flaviu.jpg
+    name : Flaviu Cernescu
+    designation : Head, Physical Security Testing
+    description : Cluj, Romania
+    socialIcon :
+      - icon : tf-ion-social-youtube
+        url : "https://www.youtube.com/user/flaviucernescu"
