@@ -11,7 +11,4 @@ contactDetails :
     info : "Risktronics SRL, Iuliu Maniu Str. 13/1, 400095 Cluj, Romania."
 
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +40-724-936-240"
-
- - icon : tf-ion-ios-telephone-outline
-   info : "Phone: +972-522-267-518"
+    info : "Phone: +40-724-936-240 or +972-522-267-518"
