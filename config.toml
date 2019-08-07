@@ -47,8 +47,7 @@ logo = "images/logo.jpg"
 # Meta data
 description = "Cybersecurity for modern times"
 author = ""
-# Google Analitycs
-googleAnalitycsID = "Your ID"
+
 custom_css = ["css/custom.css"]
 
     # Banner Section
@@ -113,4 +112,4 @@ custom_css = ["css/custom.css"]
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-instagram-outline"
-        url = "https://instagram.com/risktronics.io"
+        url = "https://instagram.com/risktronics"
