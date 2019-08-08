@@ -45,7 +45,7 @@ home= "Home"
 logo = "images/logo.jpg"
 # gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Cybersecurity for modern times"
+description = "True cybersecurity, not just compliance."
 author = ""
 
 custom_css = ["css/custom.css"]
@@ -57,7 +57,7 @@ custom_css = ["css/custom.css"]
     heading = "Achieve real cybersecurity, not just compliance!"
     content= "Our cybersecurity experts are ready to provide an in-depth audit of your critical infostructure security, assuring real time response to the whole range of threats you're facing while also recovering detailed cybercrime data for further digital forensics analyses."
     btn = true
-    btnText="Imminent cyber attack? Request a pentest now!"
+    btnText="Imminent cyber attack? Request a pentest now."
     btnURL="#contact-us"
 
     # call to action
