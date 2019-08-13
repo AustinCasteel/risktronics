@@ -17,3 +17,8 @@ portfolioItem :
     image : images/portfolio/Sibiu.png
     URL : https://www.sibiu.ro/
     title : Sibiu City Hall
+
+  - types : pentest
+    image : images/portfolio/battlefin-logo.webp
+    URL : https://www.battlefin.com/
+    title : BattleFin
