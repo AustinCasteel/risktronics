@@ -19,6 +19,6 @@ portfolioItem :
     title : Sibiu City Hall
 
   - types : pentest
-    image : images/portfolio/battlefin-logo.webp
+    image : images/portfolio/battlefin-logo.png
     URL : https://www.battlefin.com/
     title : BattleFin
