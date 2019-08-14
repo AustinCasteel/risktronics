@@ -41,3 +41,8 @@ teamMember :
     socialIcon :
       - icon : tf-ion-social-youtube
         url : "https://www.youtube.com/user/flaviucernescu"
+
+  - image : images/team/Sergey.jpg
+    name : Sergey Denisov
+    designation : Business Development
+    description : South-East Asia
